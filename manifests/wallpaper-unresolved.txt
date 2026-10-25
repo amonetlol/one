@@ -1,0 +1,27 @@
+$HOME/.config/dunst/assets/screenshot.png
+$HOME/.config}/fastfetch/pngs/*.png
+$HOME/Imagens/Screenshots/$(date +%Y%m%d-%H%M%S).png
+/home/pio/.config/hypr-besita/fastfetch/caesar.png
+/home/pio/.config/hypr-besita/wlogout/icons/lock.png
+/home/pio/.config/hypr-besita/wlogout/icons/logout.png
+/home/pio/.config/hypr-besita/wlogout/icons/reboot.png
+/home/pio/.config/hypr-besita/wlogout/icons/shutdown.png
+/home/pio/.config/hypr-besita/wlogout/icons/suspend.png
+/home/pio/.config/hypr-pie/wallpapers/abs_bauhas.png
+/home/pio/.config/hypr-pie/wlogout/icons/lock.png
+/home/pio/.config/hypr-pie/wlogout/icons/logout.png
+/home/pio/.config/hypr-pie/wlogout/icons/reboot.png
+/home/pio/.config/hypr-pie/wlogout/icons/shutdown.png
+/home/pio/.config/hypr-pie/wlogout/icons/suspend.png
+/home/pio/.config/hypr-vora/wallpapers/fetch.png
+/home/pio/.config/wlogout/icons/hibernate.png
+/home/pio/.config/wlogout/icons/lock.png
+/home/pio/.config/wlogout/icons/logout.png
+/home/pio/.config/wlogout/icons/reboot.png
+/home/pio/.config/wlogout/icons/shutdown.png
+/home/pio/.config/wlogout/icons/suspend.png
+~/.config/fastfetch/homer.png
+~/.config/fastfetch/vora.png
+~/Imagens/wallpapers/045.jpg
+~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png
+~/walls/wall1.jpg

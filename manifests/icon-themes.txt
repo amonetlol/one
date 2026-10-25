@@ -1,0 +1,9 @@
+Adwaita
+Bibata-Modern-Ice
+Colloid-Catppuccin-Dark
+Colloid-Green-Everforest-Dark
+Colloid-Grey-Dark
+Colloid-Yellow-Nord-Dark
+Gruvbox-Plus-Dark
+MacTahoe-dark
+Vimix-cursors

@@ -1,0 +1,716 @@
+[
+ {
+  "path": "sources/hyprexpo",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/.envrc",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 10
+ },
+ {
+  "path": "sources/hyprexpo/.github",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/.github/workflows",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/.github/workflows/deploy-site.yml",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2843
+ },
+ {
+  "path": "sources/hyprexpo/.github/workflows/release.yml",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2417
+ },
+ {
+  "path": "sources/hyprexpo/.github/workflows/site-check.yml",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1239
+ },
+ {
+  "path": "sources/hyprexpo/.gitignore",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 711
+ },
+ {
+  "path": "sources/hyprexpo/CMakeLists.txt",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2822
+ },
+ {
+  "path": "sources/hyprexpo/Dispatchers.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 28395
+ },
+ {
+  "path": "sources/hyprexpo/Dispatchers.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 786
+ },
+ {
+  "path": "sources/hyprexpo/ExpoGesture.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2175
+ },
+ {
+  "path": "sources/hyprexpo/ExpoGesture.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1019
+ },
+ {
+  "path": "sources/hyprexpo/HyprexpoConfig.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7041
+ },
+ {
+  "path": "sources/hyprexpo/HyprexpoLogic.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 29490
+ },
+ {
+  "path": "sources/hyprexpo/HyprexpoLogic.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7461
+ },
+ {
+  "path": "sources/hyprexpo/HyprlandConfigCompat.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 681
+ },
+ {
+  "path": "sources/hyprexpo/IOverviewSession.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2221
+ },
+ {
+  "path": "sources/hyprexpo/IOverviewSession.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4022
+ },
+ {
+  "path": "sources/hyprexpo/LICENSE",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1503
+ },
+ {
+  "path": "sources/hyprexpo/Makefile",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 8474
+ },
+ {
+  "path": "sources/hyprexpo/Overview.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 60517
+ },
+ {
+  "path": "sources/hyprexpo/Overview.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 8957
+ },
+ {
+  "path": "sources/hyprexpo/OverviewCapture.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 15149
+ },
+ {
+  "path": "sources/hyprexpo/OverviewCapture.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1205
+ },
+ {
+  "path": "sources/hyprexpo/OverviewInteraction.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 26444
+ },
+ {
+  "path": "sources/hyprexpo/OverviewInternal.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 3322
+ },
+ {
+  "path": "sources/hyprexpo/OverviewPassElement.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1147
+ },
+ {
+  "path": "sources/hyprexpo/OverviewPassElement.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 868
+ },
+ {
+  "path": "sources/hyprexpo/OverviewRender.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 35276
+ },
+ {
+  "path": "sources/hyprexpo/PluginConfig.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 18312
+ },
+ {
+  "path": "sources/hyprexpo/PluginConfig.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 51
+ },
+ {
+  "path": "sources/hyprexpo/README.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 10207
+ },
+ {
+  "path": "sources/hyprexpo/RELEASING.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2704
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingDiagnostics.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 21569
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingDiagnostics.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 749
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingInputState.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 21246
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingInputState.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 3475
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingLayoutAdapter.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 48016
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingLayoutAdapter.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 3123
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingMutationTransaction.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 34563
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingMutationTransaction.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 6687
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingOverview.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 50776
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingOverview.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 8170
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingOverviewLogic.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 22576
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingOverviewLogic.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 5260
+ },
+ {
+  "path": "sources/hyprexpo/ScrollingRequestId.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 547
+ },
+ {
+  "path": "sources/hyprexpo/VERSION",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 8
+ },
+ {
+  "path": "sources/hyprexpo/default.nix",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 397
+ },
+ {
+  "path": "sources/hyprexpo/docs",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/.vitepress",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/.vitepress/config.ts",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2213
+ },
+ {
+  "path": "sources/hyprexpo/docs/configuration",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/configuration/keyboard.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 5245
+ },
+ {
+  "path": "sources/hyprexpo/docs/configuration/labels-borders.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 5140
+ },
+ {
+  "path": "sources/hyprexpo/docs/configuration/options.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 18483
+ },
+ {
+  "path": "sources/hyprexpo/docs/getting-started",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/getting-started/installation.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2768
+ },
+ {
+  "path": "sources/hyprexpo/docs/getting-started/quick-start.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2636
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides/lua-gestures.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 5179
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides/migration.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1603
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides/multi-monitor.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 3895
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides/runtime-smoke.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7177
+ },
+ {
+  "path": "sources/hyprexpo/docs/guides/scrolling-overview.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7908
+ },
+ {
+  "path": "sources/hyprexpo/docs/index.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1408
+ },
+ {
+  "path": "sources/hyprexpo/docs/package-lock.json",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 88318
+ },
+ {
+  "path": "sources/hyprexpo/docs/package.json",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 417
+ },
+ {
+  "path": "sources/hyprexpo/docs/public",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/public/hyprexpo-mark.svg",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 524
+ },
+ {
+  "path": "sources/hyprexpo/docs/reference",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/docs/reference/compatibility.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4504
+ },
+ {
+  "path": "sources/hyprexpo/docs/reference/dispatchers.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4644
+ },
+ {
+  "path": "sources/hyprexpo/docs/reference/feature-integration.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7111
+ },
+ {
+  "path": "sources/hyprexpo/docs/troubleshooting.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1296
+ },
+ {
+  "path": "sources/hyprexpo/flake.nix",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1540
+ },
+ {
+  "path": "sources/hyprexpo/globals.hpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 94
+ },
+ {
+  "path": "sources/hyprexpo/hyprpm.toml",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 1903
+ },
+ {
+  "path": "sources/hyprexpo/main.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 5977
+ },
+ {
+  "path": "sources/hyprexpo/meson.build",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2519
+ },
+ {
+  "path": "sources/hyprexpo/scripts",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/scripts/build-docs.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 316
+ },
+ {
+  "path": "sources/hyprexpo/scripts/build-site.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 287
+ },
+ {
+  "path": "sources/hyprexpo/scripts/check-commit-pins.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 3176
+ },
+ {
+  "path": "sources/hyprexpo/scripts/dev-link.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 7901
+ },
+ {
+  "path": "sources/hyprexpo/scripts/dev-watch.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 3082
+ },
+ {
+  "path": "sources/hyprexpo/scripts/inject-scrolling-input.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 14253
+ },
+ {
+  "path": "sources/hyprexpo/scripts/prepare-vitepress-directory-urls.mjs",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 1291
+ },
+ {
+  "path": "sources/hyprexpo/scripts/read-scrolling-diagnostic.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 1773
+ },
+ {
+  "path": "sources/hyprexpo/scripts/run-nested.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 8138
+ },
+ {
+  "path": "sources/hyprexpo/scripts/run-scrolling-probe.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 43054
+ },
+ {
+  "path": "sources/hyprexpo/scripts/serve-docs.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 274
+ },
+ {
+  "path": "sources/hyprexpo/scripts/serve-site.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 108
+ },
+ {
+  "path": "sources/hyprexpo/scripts/validate-scrolling-overview.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 28159
+ },
+ {
+  "path": "sources/hyprexpo/scripts/verify-site-dist.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 2753
+ },
+ {
+  "path": "sources/hyprexpo/scripts/version.sh",
+  "kind": "file",
+  "mode": "0o100755",
+  "size": 1455
+ },
+ {
+  "path": "sources/hyprexpo/site",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/site/index.html",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2543
+ },
+ {
+  "path": "sources/hyprexpo/site/package-lock.json",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 34726
+ },
+ {
+  "path": "sources/hyprexpo/site/package.json",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 270
+ },
+ {
+  "path": "sources/hyprexpo/site/public",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/site/public/hyprexpo-mark.svg",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 524
+ },
+ {
+  "path": "sources/hyprexpo/site/src",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/site/src/main.js",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 639
+ },
+ {
+  "path": "sources/hyprexpo/site/src/styles.css",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4142
+ },
+ {
+  "path": "sources/hyprexpo/site/vite.config.js",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 148
+ },
+ {
+  "path": "sources/hyprexpo/spikes",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/spikes/scrolling-api",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/spikes/scrolling-api/CMakeLists.txt",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 654
+ },
+ {
+  "path": "sources/hyprexpo/spikes/scrolling-api/README.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 966
+ },
+ {
+  "path": "sources/hyprexpo/spikes/scrolling-api/ScrollingApiProbe.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 37409
+ },
+ {
+  "path": "sources/hyprexpo/tests",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/tests/HyprexpoLogicTests.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 88427
+ },
+ {
+  "path": "sources/hyprexpo/tests/OverviewSourceTests.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 103366
+ },
+ {
+  "path": "sources/hyprexpo/tests/RegistryTeardownTests.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7169
+ },
+ {
+  "path": "sources/hyprexpo/tests/ScrollingInputOracle.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2455
+ },
+ {
+  "path": "sources/hyprexpo/tests/ScrollingProbeSourceTests.cpp",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4660
+ },
+ {
+  "path": "sources/hyprexpo/tools",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "sources/hyprexpo/tools/hyprexpo-migrate-config.py",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 8450
+ }
+]

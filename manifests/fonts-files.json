@@ -1,0 +1,212 @@
+[
+ {
+  "path": "home/.local/share/fonts",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFont-Bold.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7105328
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFont-Italic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7138056
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFont-Regular.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7099708
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontMono-Bold.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7375772
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontMono-Italic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7408364
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontMono-Regular.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7370092
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontPropo-Bold.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7122148
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontPropo-Italic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7154876
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/CodeNewRomanNerdFontPropo-Regular.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 7116524
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/README.md",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4041
+ },
+ {
+  "path": "home/.local/share/fonts/CodeNewRoman/license.txt",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 2958
+ },
+ {
+  "path": "home/.local/share/fonts/EB-Garamond",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/EB-Garamond/EBGaramond-Italic[wght].ttf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 754468
+ },
+ {
+  "path": "home/.local/share/fonts/EB-Garamond/EBGaramond[wght].ttf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 851176
+ },
+ {
+  "path": "home/.local/share/fonts/EB-Garamond/OFL.txt",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 4398
+ },
+ {
+  "path": "home/.local/share/fonts/MomoTrust",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/MomoTrust/momotrust.ttf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 93400
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Black.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 46928
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-BlackItalic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 47792
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Bold.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 49668
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-BoldItalic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 51524
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Italic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 51304
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Light.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 45128
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-LightItalic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 46580
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Medium.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 50352
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-MediumItalic.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 51500
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Regular.otf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 49560
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-Variable.ttf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 127420
+ },
+ {
+  "path": "home/.local/share/fonts/Satoshi/Satoshi-VariableItalic.ttf",
+  "kind": "file",
+  "mode": "0o100644",
+  "size": 129748
+ },
+ {
+  "path": "home/.local/share/fonts/modernclock",
+  "kind": "dir",
+  "mode": "0o40755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/fonts/modernclock/Anurati.otf",
+  "kind": "file",
+  "mode": "0o100664",
+  "size": 8176
+ },
+ {
+  "path": "home/.local/share/fonts/modernclock/Poppins.ttf",
+  "kind": "file",
+  "mode": "0o100664",
+  "size": 158240
+ }
+]

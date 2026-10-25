@@ -1,0 +1,17 @@
+blackbox-terminal
+catppuccin-gtk-theme-frappe
+elephant
+elephant-calc
+elephant-clipboard
+elephant-desktopapplications
+elephant-files
+elephant-runner
+elephant-websearch
+elephant-windows
+gtk-engine-murrine
+herdr-bin
+ttf-geist
+ttf-geist-mono
+ulauncher
+wl-gammarelay-rs
+yay-bin

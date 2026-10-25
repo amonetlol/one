@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "source_host": "one",
+  "source_home": "/home/pio",
+  "created_utc": "2026-10-25T15:57:03.237068+00:00",
+  "archives": [
+    {
+      "group": "configs",
+      "size": 46984828,
+      "sha256": "abd62cda5342e5e77921dfc6d64349f7d22d57af92d9dae55bc5475d0d01f73f",
+      "parts": [
+        {
+          "file": "payload/configs.tar.gz",
+          "size": 46984828,
+          "sha256": "abd62cda5342e5e77921dfc6d64349f7d22d57af92d9dae55bc5475d0d01f73f"
+        }
+      ],
+      "entries": 10369
+    },
+    {
+      "group": "themes",
+      "size": 4666538,
+      "sha256": "8aa8f6a2eac36b52a50d35e94c53e6342bf690cb63cc293d2280272f3449db3d",
+      "parts": [
+        {
+          "file": "payload/themes.tar.gz",
+          "size": 4666538,
+          "sha256": "8aa8f6a2eac36b52a50d35e94c53e6342bf690cb63cc293d2280272f3449db3d"
+        }
+      ],
+      "entries": 9854
+    },
+    {
+      "group": "icons",
+      "size": 37336531,
+      "sha256": "62b0e469250932769788feca67c64b58b46ee63851fdddf062fb16b399858add",
+      "parts": [
+        {
+          "file": "payload/icons.tar.gz",
+          "size": 37336531,
+          "sha256": "62b0e469250932769788feca67c64b58b46ee63851fdddf062fb16b399858add"
+        }
+      ],
+      "entries": 127833
+    },
+    {
+      "group": "fonts",
+      "size": 27734654,
+      "sha256": "6455860dfdc1f85db898822f4ddab6379db73665ea9354a3cfd98757c939a375",
+      "parts": [
+        {
+          "file": "payload/fonts.tar.gz",
+          "size": 27734654,
+          "sha256": "6455860dfdc1f85db898822f4ddab6379db73665ea9354a3cfd98757c939a375"
+        }
+      ],
+      "entries": 35
+    },
+    {
+      "group": "serpantinum-runtime",
+      "size": 105136878,
+      "sha256": "28d13fd2e1a636cf66e324c19a81a04432e668512d08dfec38553efb012728af",
+      "parts": [
+        {
+          "file": "payload/serpantinum-runtime.tar.gz.part000",
+          "size": 50331648,
+          "sha256": "95448604610de1debf3edc912c3c47dac552ebe2d67d17a634801917375cbe1a"
+        },
+        {
+          "file": "payload/serpantinum-runtime.tar.gz.part001",
+          "size": 50331648,
+          "sha256": "1ae681fca314aec764b770af0def7e1afd3bb6c377f4368d2e4c4516cdf7ebff"
+        },
+        {
+          "file": "payload/serpantinum-runtime.tar.gz.part002",
+          "size": 4473582,
+          "sha256": "cbf72e8532511e7665efbd054d8ad12f378f7de98c2e466aab9a373073635d73"
+        }
+      ],
+      "entries": 796
+    },
+    {
+      "group": "hyprexpo-source",
+      "size": 260770,
+      "sha256": "296c367cc883bd1b5a88d0ea198a66c808d4d88e67484856944ee825052e5b92",
+      "parts": [
+        {
+          "file": "payload/hyprexpo-source.tar.gz",
+          "size": 260770,
+          "sha256": "296c367cc883bd1b5a88d0ea198a66c808d4d88e67484856944ee825052e5b92"
+        }
+      ],
+      "entries": 119
+    },
+    {
+      "group": "wallpapers-fixed",
+      "size": 2308775,
+      "sha256": "34cb570bf07ea3de38ecce6d482e0e2da01177b3e57f74e86ec729dcd2d4f93f",
+      "parts": [
+        {
+          "file": "payload/wallpapers-fixed.tar.gz",
+          "size": 2308775,
+          "sha256": "34cb570bf07ea3de38ecce6d482e0e2da01177b3e57f74e86ec729dcd2d4f93f"
+        }
+      ],
+      "entries": 3
+    }
+  ],
+  "wallpaper_library_included": false,
+  "profiles": [
+    "hypr",
+    "hypr-besita",
+    "hypr-pie",
+    "hypr_karol",
+    "hypr-vora",
+    "hypr-kana",
+    "niri",
+    "niri-dms",
+    "qtile",
+    "serpantinum",
+    "noctalia",
+    "dms"
+  ],
+  "redacted_fields": []
+}

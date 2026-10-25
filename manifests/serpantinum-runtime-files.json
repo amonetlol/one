@@ -1,0 +1,4779 @@
+[
+ {
+  "path": "home/.local/share/serpantinum",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/bin",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/bin/serpantinum",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 22997
+ },
+ {
+  "path": "home/.local/share/serpantinum/bin/serpantinumd",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 6897
+ },
+ {
+  "path": "home/.local/share/serpantinum/src",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/0xProtoNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2406112
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/3270NerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2637000
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AdwaitaMonoNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3943580
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AgaveNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2631424
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AnonymiceProNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2511728
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/ArimoNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2734668
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AtkynsonMonoNerdFont-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2150500
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AurulentSansMNerdFont-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2114832
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/AurulentSansMNerdFontMono-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2186916
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/BitcountPropSingle-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 331076
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/BitcountPropSingle_Roman-Bold.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 331104
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/BlexMonoNerdFont-Bold.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2352748
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/BlexMonoNerdFont-Light.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2350504
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/BlexMonoNerdFontMono-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2353588
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/ComicMono.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 18724
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/ComicShannsMonoNerdFont-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2291056
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/CousineNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2690028
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/DaddyTimeMonoNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2483412
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/DejaVuSansMNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2702740
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/EduVICWANTHand-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 760604
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/FiraCode-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 188500
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/GohuFontuni14NerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2482400
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/GoogleSansFlex.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3910784
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/HeavyDataNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2391776
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/IBMPlexMono-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 133796
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/InconsolataGoNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2290876
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/IosevkaNerdFont-Bold.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13281980
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/IosevkaNerdFont-Italic.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13601384
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/IosevkaNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13233516
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/JetBrainsMono-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 273900
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/JetBrainsMono-SemiBold.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 277092
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/LektonNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2323360
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/OpenDyslexicNerdFont-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2155832
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/ProggyCleanSZNerdFont-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2433748
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/Roboto-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 159108
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/SF-Pro-Display-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2230364
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/SF-Pro-Display-Semibold.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2325324
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/SFMono-Regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 93944
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/SymbolsNerdFontMono-Regular.ttf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2610012
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/fonts/TTCommonsPro_regular.otf",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 28372
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/ar.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 81262
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/az.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 68577
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/bg.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 87838
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/de.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 66874
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/en.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 61621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/es.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 67700
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/fa.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 79435
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/fr.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 67271
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/hi.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 100226
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/hy.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 86761
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/id.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 62437
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/it.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 64550
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/ja.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 72392
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/ko.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 66511
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/nl.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 63720
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/pl.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 64866
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/pt.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 63514
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/ru.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 88686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/tr.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 65346
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/ua.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 87645
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/vi.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 70499
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/zh.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 59097
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/languages/zh_tw.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 59762
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/logo.svg",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 12662
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/config-static.toml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 250
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/config.toml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 398
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/templates",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/templates/cava-colors.ini.template",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 546
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/templates/fastfetch.jsonc.template",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1189
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/templates/kitty-colors.conf.template",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2011
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/matugen/templates/serpantinum_matugen_colors.json.template",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1174
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/pushy.gif",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 14520
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/pushy2.gif",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 29131
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/seekbar_wave.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2708
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/seekbar_wave.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5451
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_bars.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4267
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_bars.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7081
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_ring_wave.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2460
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_ring_wave.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_wave.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3444
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/audio/visualizer_wave.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5725
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/curtain_wipe.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1952
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/curtain_wipe.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4555
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/liquid_glass.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9248
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/liquid_glass.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 20973
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/screen_wipe.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1960
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/screen_wipe.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4667
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/vignette.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 781
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/effects/vignette.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2191
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/fluid_wave.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2331
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/fluid_wave.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4559
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/liquid_fill.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3558
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/liquid_fill.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7457
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/logo_water_wave.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1771
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/fluid/logo_water_wave.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4239
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/circular_wave_gauge.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3054
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/circular_wave_gauge.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5023
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/circular_wave_gauge_smooth.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3541
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/circular_wave_gauge_smooth.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7329
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/clock_lumen_dial.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1712
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/clock_lumen_dial.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4016
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/clock_second_arc.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1926
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/gauges/clock_second_arc.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3862
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/lock",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/lock/fingerprint_ring.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4318
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/lock/fingerprint_ring.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9156
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/lock/fingerprint_success.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2844
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/lock/fingerprint_success.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6910
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/transitions",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/transitions/wallpaper_blend.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2685
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/transitions/wallpaper_blend.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4633
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/transitions/wallpaper_transition.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2962
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/transitions/wallpaper_transition.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4472
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/corner_cutout.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1008
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/corner_cutout.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1911
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/dashed_ellipse.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1481
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/dashed_ellipse.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3475
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/grid_pattern.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 735
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/grid_pattern.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2269
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/loader_blob.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1247
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/loader_blob.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3001
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/marquee_scroll.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 442
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/marquee_scroll.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1508
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/rounded_mask.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 788
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/ui/rounded_mask.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2499
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/vfx",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/vfx/eq_lightning.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3935
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/vfx/eq_lightning.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/vfx/node_beams_clipped.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4779
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/vfx/node_beams_clipped.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8128
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/widgets",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/widgets/pacman.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1032
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/widgets/pacman.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2675
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/widgets/widget_outline.frag",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2285
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/shaders/widgets/widget_outline.frag.qsb",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4173
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/guide",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/guide/barconfig",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/guide/barconfig/in.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 83378
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/guide/barconfig/out.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 88334
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/musicpopup",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/musicpopup/swoosh.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 466124
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network/connect.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 159856
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network/disconnect.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 364110
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network/power_off.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 589902
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network/power_on.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 442446
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/network/switch.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 41550
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Botanica.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 302296
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Curious.mp3",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 68352
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Progress.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 132344
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Sine.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 715690
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Sneak.mp3",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 103653
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/WakeUp.mp3",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 56842
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/notifications/Wobbly.mp3",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 62693
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/quickactions",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/quickactions/usage.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3006084
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/clickbutton",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/clickbutton/click.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/clickbutton/click2.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8840
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/draggable",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/draggable/tick.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 176478
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/dropdown",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/dropdown/click.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/dropdown/list.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 84828
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/fillbutton",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/fillbutton/button.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 952
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/fillbutton/charge_loop.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 551262
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/fillbutton/charge_loop2.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 104870
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/iconbutton",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/iconbutton/click.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/input",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/input/type.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 740
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/switch",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/switch/sfx.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8864
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/toggle",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/reusables/toggle/sfx.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 89778
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/background.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 44647686
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/exit.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3979852
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/pop_author.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23498
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/start.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1539270
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/transition_serp.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 453610
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/type.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 740
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/start/wave.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2954828
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/system",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/system/quick_click.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 176444
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/tutorial",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/tutorial/tip.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 535868
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/sounds/tutorial/tip_guide.wav",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 586670
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Alexandrite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 623
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Amber.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Amethyst.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Ametrine.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Andromeda.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Aquamarine.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 622
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Aventurine.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 622
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Ayu Dark.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 594
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Ayu Mirage.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 596
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Benitoite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Beryl.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Bloodstone.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 622
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Bronze.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Carbonfox.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Carnelian.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Charoite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Chrysocolla.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 623
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Citrine.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Cobalt2.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Copper.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Coral.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Cyberpunk.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Dracula.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/DustFox.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Emerald.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Espresso.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 594
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Everforest.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 596
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Flexoki Dark.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 598
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Flexoki Light.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 599
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Frappe.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 592
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Garnet.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/GitHub Dark.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 597
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/GitHub Light.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 598
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Gruvbox.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Heliodor.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Hematite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Horizon.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Iolite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Jade.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 616
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Jasper.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Kanagawa Dragon.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 601
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Kanagawa.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 594
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Kunzite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Lapis.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Larimar.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Latte.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 591
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Macchiato.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Malachite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Mariana.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Material Darker.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 601
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Material Ocean.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 600
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Matugen.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 45
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Mocha.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 591
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Monokai.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 593
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Moonstone.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Morganite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Night Owl.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Nightfox.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Nord.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 590
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Obsidian.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/One Dark.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 594
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Onyx.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 616
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Opal.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 616
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Palenight.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Panda.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 591
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/PaperColor Light.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 602
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Pearl.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Peridot.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 619
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Platinum.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Poimandres.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 596
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Pyrite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Quartz.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Rhodochrosite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 625
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Rhodonite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Rose Pine Dawn.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 600
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Rose Pine Moon.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 600
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Rose Pine.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Ruby.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 616
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Sapphire.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Shades of Purple.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 602
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Solarized.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 595
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Sphene.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Spinel.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Sugilite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Sunburst.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Sunstone.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/SynthWave '84.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 599
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Tanzanite.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Titanium.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 620
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Tokyo Storm.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 597
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Tokyo.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 591
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Topaz.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Tourmaline.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 622
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Turquoise.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 621
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Vesper.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 592
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/themes/Zircon.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 618
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/tutorial.json",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 8955
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/widgets",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/widgets/dashboard.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1003
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/widgets/media_station.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 395
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/assets/widgets/minimal.json",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 372
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/Dim.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1070
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/Main.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 32153
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/Runner.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 258
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/SettingsApp.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1924
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/Shell.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2755
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/WindowRegistry.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7963
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/Bar.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 18579
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/BarModule.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7304
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/BarModuleRegistry.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17288
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/SideBar.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 40247
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/TopBar.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 41858
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/bat",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/bat/BatFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 30921
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/bt",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/bt/BtFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15949
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/focus",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/focus/FocusFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6661
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/info",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/info/InfoFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10396
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/kb",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/kb/KbFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13766
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/left",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/left/LeftFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6206
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/media",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/media/MediaFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 26985
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/sysmon",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/sysmon/SysMonFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10770
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/timedate",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/timedate/BadgeFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15928
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/timedate/ClassicFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7015
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/timedate/MaterialFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 21199
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/timedate/TimeDateFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4905
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/tray",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/tray/TrayFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9971
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/vis",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/vis/VisFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7333
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/vol",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/vol/VolFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13203
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/weather",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/weather/WeatherFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3997
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/wifi",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/wifi/WifiFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 18546
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/workspaces",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/workspaces/NumbersFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8948
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/workspaces/PacmanFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11948
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/workspaces/PillsFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8421
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/faces/workspaces/WorkspacesFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13787
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/bar/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 144
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/calendar",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/calendar/CalendarPopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 50425
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/clipboard",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/clipboard/Clipboard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 74091
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/clipboard/clip_fetcher.py",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6206
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/Dock.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 457
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockAppButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 22670
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockAppPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8917
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockContainer.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 21578
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockExclusionWindow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1027
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockPickerRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6266
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockRunningButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15673
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockWindow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15294
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockWindowApps.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 19372
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/DockWindowState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 20053
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/dock/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 362
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/AboutTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 19244
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/DockTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 90333
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/GuideContent.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11124
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/GuidePopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 41638
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/GuideSearchResults.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 27505
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/GuideSidebar.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23132
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/GuideTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 464
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/IdleTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 42929
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/LauncherTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17333
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/OnScreenDisplayTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 39143
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/WelcomeTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8960
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/BarGeneralTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1371
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/BarModulesTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2173
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarAutohideSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2369
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarDragBox.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13462
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarGeneralState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 28015
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarLayoutEditor.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3490
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarPlacementSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6671
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/BarStyleSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2434
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/general/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 244
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarBatteryCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2844
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarBluetoothCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2615
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarKeyboardCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1772
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarMediaCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5101
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarMenuCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2746
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarModuleCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4052
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarModulePreview.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2741
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarModuleStyleCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4103
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarModulesSettings.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23777
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarNetworkCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2692
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarPreviewWidget.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 794
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarSysmonCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4996
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarTimeDateCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5851
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarVisualizerCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5860
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarVolumeCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2677
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/BarWorkspacesCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7285
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/bar/modules/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 636
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayLockscreenState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4088
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayLockscreenTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9330
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayMainState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 21605
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayMainTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1227
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayMonitorCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14336
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayWidgetsState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 28517
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/DisplayWidgetsTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2436
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/LockBackgroundPreview.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7811
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/SavePresetPopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15874
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/WidgetItemCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3242
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/WidgetMonitorCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7053
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/WidgetPresetCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7419
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/WidgetPresetMiniWidget.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4578
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/WidgetPresetsPanel.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2299
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/display/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 506
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/AvatarPreview.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2584
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/GeneralAudioSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2584
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/GeneralBehaviorSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1622
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/GeneralLocationSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8611
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/GeneralProfileSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4598
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/GeneralTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8247
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/LocationInfo.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6766
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/general/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 278
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/NotificationPositionRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15462
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/NotificationsBehaviorSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2367
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/NotificationsSoundSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4112
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/NotificationsTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17957
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/SoundPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6516
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/notifications/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 214
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 170
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/screenshot",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/screenshot/OcrLanguages.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2301
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/screenshot/ScreenshotTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14550
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/FontPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1166
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/PresetsTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 213
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeAppearanceSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8573
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeEditor.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9617
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemePresetDelegate.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1357
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemePresetTile.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6910
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemePresetsSection.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3707
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1729
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeTabState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 29019
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeWallpaperDirRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2747
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/ThemeWallpaperPreview.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11444
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 390
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/theme/theme_sorter.py",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7406
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/DigitalWellbeingTab.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 732
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingAppPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10206
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingBottomPanel.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14925
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingDailyView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1833
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingHeader.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6547
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingLimitOverlay.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7449
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingMetric.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1693
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingMidRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10132
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingSettingsView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7637
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 22289
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingStatsRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6689
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingWeekChart.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11783
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingWeekDetails.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8602
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/WellbeingWeekView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 556
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/focus_daemon.py",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 30000
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/get_stats.py",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 8579
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/launch_daemon.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 136
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/guide/wellbeing/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 636
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/idle",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/idle/Idle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17803
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/idle/idle_helper.py",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 12713
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/launcher",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/launcher/EmojiData.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 296390
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/launcher/Launcher.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 96827
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/launcher/SearchProviders.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1430
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/launcher/app_rank.py",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5866
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/FingerprintIndicator.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17972
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/Lock.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 20804
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockBackdrop.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6673
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockClock.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 974
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockDashboard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4605
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockPowerControls.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4962
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockScreen.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 22267
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/LockSurface.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 715
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/VideoLock.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1718
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 300
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockElementRegistry.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9311
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockLayoutStore.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17560
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockLayoutView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5484
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockPanelStage.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7808
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockRedactor.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 36493
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockScene.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 33418
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockSettingsRepeater.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2862
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockStageFrame.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1821
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/LockToolbarItem.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1114
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockAvatarElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1163
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockBatteryElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1055
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockFingerprintElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 832
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockKeyboardElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 870
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockLockStatusElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 816
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockNotificationsElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 852
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockPasswordElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3349
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/LockUserElement.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 806
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/elements/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 390
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/lock/redactor/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 374
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicAudioView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 16174
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicBlurCrossfader.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2164
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicBorder.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4381
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicBottomHeader.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7605
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicCover.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 12680
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicEqView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 22759
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicEqualizerState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8146
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicLyricsView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2038
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicPlayerState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8765
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicPopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 16304
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicPresetButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 804
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/MusicTrackControls.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8913
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/art_fetch.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 11635
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/equalizer.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 13128
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/media/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 474
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/LoadingDots.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 749
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/NetworkCardLayer.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23552
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/NetworkControls.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10932
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/NetworkCoreLayer.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 30362
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/NetworkPopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 76849
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/bluetooth_panel_logic.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 723
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/network/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 190
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/Notification.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 39120
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/NotificationCenter.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3528
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/NotificationManager.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15092
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/NotificationPopups.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13368
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/types",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/types/Default.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1810
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/types/Screenshot.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4265
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/types/Update.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1824
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/notifications/types/Weather.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1119
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/polkit",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/polkit/Polkit.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9951
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/polkit/PolkitService.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1964
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/DesktopMenu.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 35667
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/DockAppMenu.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 20083
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/Osd.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 37499
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/PopoutManager.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 158
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/SideMusicPopout.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 26011
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/popouts/TrayBase.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 42482
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3205
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/Floating.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 93930
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/Calculator.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 50962
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/CalculatorEngine.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11274
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/CalculatorKey.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1257
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/ConverterEngine.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4217
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/Dock.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6340
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/DrawAction.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 57013
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/Notes.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 47005
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/NotesFormat.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4051
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/SystemUsage.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 12023
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/Timer.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 39802
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/quickactions/actions/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 186
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/behavior",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/behavior/Draggable.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 17214
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/behavior/ScreenPositionSelector.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 16131
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/CanvasIconButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4200
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/ClickButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8203
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/CloseButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 221
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/DeleteButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 175
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/FillButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 19920
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/buttons/IconButton.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5067
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/FlipIcon.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5825
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/FluidWave.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 523
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/GlassFill.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10798
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/GlassFillets.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2528
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/GlassLens.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6432
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/ImageBox.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5102
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/LiquidFill.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 463
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/LiquidGlass.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2103
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/LoaderIcon.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2768
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/MarqueeText.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4062
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/MaterialDigitGrid.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4183
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/NotificationBox.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 57003
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/SystemUsageCard.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11101
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/SystemUsageCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3525
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/WallpaperBlur.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 16133
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/display/glassNesting.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 646
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/guide",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/guide/SettingsBlob.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 932
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/guide/SettingsGroup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4852
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/guide/SettingsRow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 22384
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/Dropdown.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 41243
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/FilePicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 32102
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/ImagePicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3513
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/ImagePickerVideo.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 750
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/Input.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 29525
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/LyricsPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6370
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/NumberSelector.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23991
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/PasswordInput.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 37860
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/SliderProgress.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6653
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/Switch.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13226
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/TimeSelector.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14886
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/inputs/Toggle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6745
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/layout",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/layout/AxisFlow.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 277
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/layout/Reserved.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1228
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/media",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/media/LyricsView.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 15348
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/media/Visualizer.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8507
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/media/WavySeekBar.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5711
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/reusables/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1677
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/screenshot",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/screenshot/ScreenshotOverlay.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 77123
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/serp",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/serp/Serpantinum.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11034
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/serp/Start.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 25019
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/Audio.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5438
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/AudioCache.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 694
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/Cava.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3836
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/Lyrics.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 39295
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/LyricsMatch.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6539
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/MprisController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6776
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/audio/Sounds.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4711
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/environment",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/environment/BlueLight.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 16675
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/environment/Location.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4027
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/environment/Weather.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8479
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/info",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/info/SysData.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4331
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/info/SystemInfo.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 10948
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/AppMatcher.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3634
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/AppMatcherInternal.js",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 717
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/Caching.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2997
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/Config.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6850
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/CurrentFocus.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1615
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/DateTime.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6493
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/FirstLaunch.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4109
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/I18n.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5922
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/MangoState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5136
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/NiriState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 9400
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/SysNotif.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8210
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/TimerState.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 145
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/Updater.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8283
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/system/WindowTracker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 23485
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/theme",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/theme/Matugen.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13209
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/theme/Scaler.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 792
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/theme/ThemeBackend.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14221
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/theme/Wallpaper.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3784
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/ClipboardController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3164
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/DesktopMenuController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2324
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/DockAppMenuController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2252
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/FloatingController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1365
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/LauncherController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3164
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/OsdController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8381
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/SideMusicController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1982
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/TrayMenuController.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2193
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/singletons/widgetcontrols/WidgetSync.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7721
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel/SystemPanel.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 30568
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel/SystemPanelPowerActions.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 12652
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel/SystemPanelQuickActions.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14183
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel/SystemPanelSliders.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8683
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/syspanel/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 190
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/volume",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/volume/VolumePopup.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 37663
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/wallpaper",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/wallpaper/WallpaperEngine.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 33971
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/wallpaper/WallpaperPicker.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 101012
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/watchers",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/watchers/kb_locks.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 8249
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/watchers/kb_wait.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1015
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/watchers/sys_fetcher.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 7083
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/SelectionOutline.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1392
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/Widget.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8306
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/WidgetLoader.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 31183
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/WidgetRedactor.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 144403
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/WidgetRegistry.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 46198
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/battery",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/battery/BatteryFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8637
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/battery/BatteryFaceCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2490
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceAnalog.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3160
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceDigital.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1196
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceLockscreen.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4870
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceMaterial.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1310
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceMaterialAnalog.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 7746
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceMaterialLumen.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 8219
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceMinimal.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1104
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/clock/ClockFaceStretched.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 6048
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/github",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/github/GithubFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 39750
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/image",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/image/ImageFaceRect.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1599
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/image/ImageFaceRound.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3121
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/image/ImageFaceRounded.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2872
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/music",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/music/MusicFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14805
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/music/MusicFaceLyrics.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 13076
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/music/MusicFaceLyricsSimple.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 4895
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/music/MusicFaceRound.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 12378
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/notes",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/notes/NotesFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 27493
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1042
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/CpuFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1760
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/CpuFaceCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1791
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/DiskFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2027
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/DiskFaceCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1926
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/RamFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1995
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/RamFaceCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 2026
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/TempFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1760
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/usage/TempFaceCircle.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1791
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/user",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/user/UserFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 14455
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/visualizer",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/visualizer/VisualizerFace.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1511
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/visualizer/VisualizerFaceContinuous.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 1214
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/weather",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/weather/WeatherFaceCompact.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 3365
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/weather/WeatherFaceFull.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 11709
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/faces/weather/WeatherFaceRound.qml",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 5028
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/quickshell/widgets/qmldir",
+  "kind": "file",
+  "mode": "0o644",
+  "size": 112
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/blue_light_filter.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 13693
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/brightness.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 5603
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/caching.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 2092
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/config.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1610
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/current_focus.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 14231
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/first_launch.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1803
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/i18n.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 2957
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/location.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 6283
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/location_manual.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1500
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/lock.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 284
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/monitors_detect.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 5155
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/ocr_langs.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 3182
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/qs_manager.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 8107
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/redactor.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 453
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/reload.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 138
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/screenshot.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 26733
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/settings.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 3155
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/can_hibernate.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1033
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/exit.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1522
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/fingerprint_available.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 1018
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/hibernate.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 549
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/pam_without_fingerprint.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 724
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/poweroff.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 709
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/reboot.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 694
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/system/suspend.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 729
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/updater.py",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 2995
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/volume.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 592
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper",
+  "kind": "dir",
+  "mode": "0o755",
+  "size": 0
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/ddg_search.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 2587
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/get_ddg_links.py",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 3756
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/indexer.py",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 10021
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/matugen_reload.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 165
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/search_control.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 371
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/wallpaper/trigger_search.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 841
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/scripts/weather.sh",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 17082
+ },
+ {
+  "path": "home/.local/share/serpantinum/src/version.txt",
+  "kind": "symlink",
+  "mode": "0o777",
+  "size": 0,
+  "link": "../version.txt"
+ },
+ {
+  "path": "home/.local/share/serpantinum/version.txt",
+  "kind": "file",
+  "mode": "0o755",
+  "size": 7
+ }
+]

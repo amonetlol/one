@@ -1,0 +1,11 @@
+Validacao realizada em 25/10/2026
+
+- SHA256 de todas as partes e de todos os 7 conjuntos: passou, apos a copia para F:\GitHub\one.
+- Restauracao do grupo configs em home temporario isolado no Linux: passou (10.353 entradas).
+- Preservacao de arquivo existente por backup: passou.
+- Permissao executavel do launcher: passou.
+- Links simbolicos e substituicao de /home/pio pelo home de teste: passou.
+- Diretorios dos seis perfis Hyprland, Niri e Qtile: presentes apos restauracao.
+- Entradas de sistema: arquivadas; instalacao via sudo nao foi executada.
+- Sessoes graficas em outro sistema: nao iniciadas.
+- Nenhum pacote instalado/atualizado, servico habilitado ou configuracao de origem alterada por este backup.
